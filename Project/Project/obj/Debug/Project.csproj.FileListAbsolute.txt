@@ -1,0 +1,8 @@
+C:\Users\David\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Project\Project\bin\Debug\Improved Calculator.exe.config
+C:\Users\David\Desktop\Project\Project\bin\Debug\Improved Calculator.exe
+C:\Users\David\Desktop\Project\Project\bin\Debug\Improved Calculator.pdb
+C:\Users\David\Desktop\Project\Project\obj\Debug\Improved Calculator.exe
+C:\Users\David\Desktop\Project\Project\obj\Debug\Improved Calculator.pdb
